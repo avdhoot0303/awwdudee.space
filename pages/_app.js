@@ -7,9 +7,6 @@ const App = ({ Component, pageProps }) => {
     
 
     <ThemeProvider>
-      <Head>
-        <script src="https://smtpjs.com/v3/smtp.js"></script>
-      </Head>
       <Component {...pageProps} />
     </ThemeProvider>
 
