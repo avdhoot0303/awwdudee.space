@@ -13,7 +13,7 @@ const Contact = () => {
             <div className="mt-10 text-center align-items:center">
                 <h1 className="text-3xl font-bold mb-4">Schedule an Appointment</h1>
                 <p className="text-lg text-gray-400 dark:text-gray-100 mb-6">
-                    Choose a time that works best for you, and let's connect!
+                    Choose a time that works best for you, and lets connect!
                 </p>
             </div>
       
