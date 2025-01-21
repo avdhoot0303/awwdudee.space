@@ -12,7 +12,7 @@ const CalendlyEmbed = ({ url }) => {
   }, []);
 
   return (
-    <div class="calendly-inline-widget"
+    <div className="calendly-inline-widget"
     data-url={url}
     data-resize="true"
     style="min-width:320px;height:700px;">
