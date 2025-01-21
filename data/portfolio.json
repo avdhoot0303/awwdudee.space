@@ -1,0 +1,261 @@
+{
+  "name": "Avdhoot",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Avdhoot Patil - curious",
+  "headerTaglineThree": "Data Scientist and Software Engineer",
+  "headerTaglineFour": "based in Stony Brook, NY.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showSkills": true,
+  "showExperience": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/avdhoot0303"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/avdhoot-patil/"
+    },
+    {
+      "id": "3",
+      "title": "Kaggle",
+      "link": "https://www.kaggle.com/awwdudee"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/imightsayjokes"
+    },
+    {
+      "id": "4",
+      "title": "Blogs",
+      "link": "https://dev.to/awwdudee"
+    },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:avdhootpatil245@gmail.com"
+    }
+  ],
+  "projects": [
+  {
+    "id": "1",
+    "title": "Scalable Email Defense: Real-Time Phishing Detection Using Event-Driven AI",
+    "description": "In the project, my role as the **Project Lead and Backend Developer** involved several critical responsibilities that were pivotal to the successful development and deployment of the phishing detection system.",
+    "img": "../public/images/ams560.drawio_f9494258.gif", 
+    "url": "https://github.com/avdhoot0303/phishDefender/tree/main"
+  },
+  {
+    "id": "2",
+    "title": "Project Two",
+    "description": "Web Development",
+    "img": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "url": "http://chetanverma.com/"
+  },
+  {
+    "id": "3",
+    "title": "Project Two",
+    "description": "Web Development",
+    "img": "https://i.pinimg.com/736x/aa/31/ac/aa31ac5e2b4c437dcec88971866b675b.jpg",
+    "url": "http://chetanverma.com/"
+  },
+  {
+    "id": "4",
+    "title": "Project Two",
+    "description": "Web Development",
+    "img": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "url": "http://chetanverma.com/"
+  },
+  {
+    "id": "4",
+    "title": "Project Two",
+    "description": "Web Development",
+    "img": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "url": "http://chetanverma.com/"
+  },
+  {
+    "id": "4",
+    "title": "Project Two",
+    "description": "Web Development",
+    "img": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "url": "http://chetanverma.com/"
+  },
+  {
+    "id": "4",
+    "title": "Project Two",
+    "description": "Web Development",
+    "img": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "url": "http://chetanverma.com/"
+  },
+  {
+    "id": "4",
+    "title": "Project Two",
+    "description": "Web Development",
+    "img": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+    "url": "http://chetanverma.com/"
+  }
+],
+  "services": [
+    {
+      "id": "1",
+      "title": "Machine learning modelling",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Data Analysis",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that make your brand stand out from competitors."
+    }
+  ],
+  "aboutpara": "Hi there! I'm Avdhoot Patil, a Data Scientist and Software Engineer. Dive into my projects, skills, and experiences to learn more about my journey. I'm currently pursuing my Master's in Data Science at Stony Brook University. I'm also working with the Research Foundation for SUNY as a Research Assistant for Stony Brook Medicine's Long COVID project.",
+  "resume": {
+    "tagline": "👋 I'm a Data Scientist and a Software Engineer.",
+    "description": "I deliver impactful, scalable solutions by blending data science expertise with software engineering skills. Proficient in Python, machine learning, and web technologies, I am currently pursuing a master's in data science while building cutting-edge Generative AI products.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Software Engineer (Data Science, Cloud, DevOps & MLOps)",
+        "company": "Neosoft Tech",
+        "logo": "https://avatars.githubusercontent.com/u/88017411?s=280&v=4",
+        "progression": [
+          {
+            "role": "Junior Software Engineer",
+            "dates": "March 2022 - December 2022",
+            "description": [
+              "Enhanced data pipelining processes, improving model development and training efficiency for over 30 Data Scientists by 25%."
+            ]
+          },
+          {
+            "role": "Software Engineer",
+            "dates": "January 2023 - Present",
+            "description": [
+          "Engineered a Python-based framework for seamless model training, deployment, and live servicing using AWS Lambda and API Gateway, reducing model deployment time by 30%.",
+          "Designed and implemented end-to-end data pipelines to transfer data from on-premise systems to cloud storage, refining datasets in BigQuery.",
+          "Conducted training programs for new team members on GCP, DevOps practices, Git, and workflows, reducing onboarding time by 30%.",
+          "Improved backend systems through code optimization and integration of advanced tools, enhancing application performance and maintainability."
+        ]
+          }
+        ],
+        
+        "skills": [
+          {
+            "name": "Python",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+          },
+          {
+            "name": "Docker",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "July 2020 - March 2022",
+        "type": "Internship",
+        "position": "Software Engineering Intern",
+        "company": "Tech Mahindra",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E16AQFlTUwcdw4vog/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687149641968?e=2147483647&v=beta&t=RcAwoj9IxOwd_wB0AgEUXWw1479GLmEh2d9XUoVr8Y8",
+        "progression": [
+          {
+            "role": "Junior Software Engineer",
+            "dates": "March 2022 - December 2022",
+            "description": [
+              "Developed and maintained scalable APIs for client projects.",
+              "Automated testing pipelines, reducing deployment times by 20%."
+            ]
+          }
+        ],
+        "skills": [
+          {
+            "name": "Java",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+          },
+          {
+            "name": "Spring Boot",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+          }
+        ]
+      }
+    ],
+    "skills": {
+      "highlights": [
+        {
+          "title": "5+ Years",
+          "description": "Experience in Python and Machine Learning."
+        },
+        {
+          "title": "100+ Projects",
+          "description": "Delivered scalable data-driven solutions."
+        },
+        {
+          "title": "Cloud Native",
+          "description": "Proficient in AWS, Docker, and Kubernetes."
+        }
+      ],
+      "languages": [
+        {
+          "name": "Python",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        },
+        {
+          "name": "Go",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        }
+      ],
+      "frameworks": [
+        {
+          "name": "React",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        },
+        {
+          "name": "TensorFlow",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+        },
+        {
+          "name": "Pytorch",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+        }
+      ],
+      "tools": [
+        {
+          "name": "Docker",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        },
+        {
+          "name": "AWS",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        },
+        {
+          "name": "GCP",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+        }
+      ]
+    },
+    "languages": [],
+    "education": [
+      {
+        "id": "1",
+        "universityName": "State University of New York at Stony Brook",
+        "universityDate": "2023-present (Expected graduate in Spring 25)",
+        "universityLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Stony_Brook_University_seal.svg/1200px-Stony_Brook_University_seal.svg.png",
+        "description": "🧪Worked as a Research Assistant for SUNY Research Foundation where I analyzed over 6 million COVID patient records for the Long COVID project at Stony Brook Medicine using N3C data.",
+        "relevantCourseWork": "Data analysis, Probability, Data management,Statistical Computing, Big data systems, Big data analysis, Statistical Learning, Machine Learning, Smart energy in the Information Age."
+      },
+      {
+        "id": "2",
+        "universityName": "University of Mumbai (Xavier Institute of Technology)",
+        "universityDate": "2018-2021",
+        "universityLogo": "https://webweb.ams3.cdn.digitaloceanspaces.com/data/anna-leela-college.webweb.ai.in/1705571275_a350133f83201298ed4f.png",
+        "description": "",
+        "relevantCourseWork": "Deep Learning, Intro to Machine Learning, DevOps, Big data systems, Internet of Things"
+      }
+    ]
+  }
+}
